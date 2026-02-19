@@ -3,8 +3,8 @@ name: vision-defense-framework
 description: Methodology for defending ambitious, unconventional ideas against criticism that they are "unbuildable," "impractical," or "impossible." Based on Zaha Hadid's experience of 16 years as a "paper arc...
 license: MIT
 metadata:
-  version: 1.0.5280
   author: sethmblack
+  version: 1.0.5281
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
